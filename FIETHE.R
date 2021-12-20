@@ -23,6 +23,14 @@
 # 10.2 - Calculate Price / Sales ratio
 # 11.0 - GICS: Sector classification
 # 11.1 - Plot GICS indicies
+# 11.2 - GICS proportion over time
+# 12.0 - Which metrics have enough values?
+# 13.0 - Backtest 3 weightings with Gics
+# 14.0 - Backtest multiple metrics & 3 weightings with Gics
+# 15.0 - Identify ultimate combination of metrics by backtesting
+# 16.0 - Format tables used in the paper
+
+
 
 
 ## 01.0 - Setting up working environment ----------------------------------------
