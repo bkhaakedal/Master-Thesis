@@ -2,6 +2,28 @@
 ## Master Thesis by Tobias Reinertsen & Benjamin Håkedal @ NHH, Fall 2021     ##
 ##----------------------------------------------------------------------------##
 
+## TABLE OF CONTENTS --------------------------------------------------------
+# 01.0 - Setting up working environment
+# 02.0 - ISIN traded from 1990 to 2020
+# 02.1 - Replace old ISIN with new ISIN
+# 03.0 - Monthly Stock Prices - Adjusted for dividends
+# 04.0 - Risk-free interest rate
+# 05.0 - Fama French Factors
+# 06.0 - Indicies from Børsprosjektet (OSEBX & GICS)
+# 06.1 - Index from 1990-2020
+# 06.2 - GICS indicies
+# 07.0 - MarketCaps 1990-2020
+# 08.0 - EIKON Accounting data: NEW_ISIN
+# 08.1 - Accounting: From Excel to ready for backtesting
+# 09.0 - Accounting data from Borsprosjektet
+# 09.1 - Supply revenue data from Bors to EIKON
+# 09.2 - Supply ROE data from Borsprosjektet
+# 10.0 - Revenue 1990-2020
+# 10.1 - Revenue 1990-2020 (EIKON + Borsprosjektet)
+# 10.2 - Calculate Price / Sales ratio
+# 11.0 - GICS: Sector classification
+# 11.1 - Plot GICS indicies
+
 
 ## 01.0 - Setting up working environment ----------------------------------------
 rm(list=ls()) # clear environment
