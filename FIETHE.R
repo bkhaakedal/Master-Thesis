@@ -32,7 +32,6 @@
 
 
 
-
 ## 01.0 - Setting up working environment ----------------------------------------
 rm(list=ls()) # clear environment
 dev.off()     # clear plots
